@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: rgb(35, 184, 47);
+  text-align: left;
+}
+
+h1 {
+  color: salmon;
+  font-size: 60px;
+}
+
+li {
+  background-color: white;
+  display: inline;
+  padding: 5%;
+  font-size: 25px;
+}
+
+img {
+  padding: 1%;
+  margin: 5%;
+}
